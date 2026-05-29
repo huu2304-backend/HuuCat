@@ -1,18 +1,43 @@
+# 🐱 HuuCat
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nghuu2003) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:huu2342003@gmail.com) 
+Chào mừng đến với dự án HuuCat! 
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=HuuCat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=HuuCat&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=HuuCat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Giới thiệu
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Đây là một dự án thú vị về mèo (Cat). Hãy cùng khám phá và phát triển dự án này!
+
+## Tính năng
+
+- 🎯 Tính năng chính 1
+- ✨ Tính năng chính 2
+- 🚀 Tính năng chính 3
+
+## Cài đặt
+
+Để cài đặt dự án, hãy làm theo các bước sau:
+
+```bash
+git clone https://github.com/huu2304-backend/HuuCat.git
+cd HuuCat
+```
+
+## Sử dụng
+
+Hướng dẫn sử dụng dự án của bạn ở đây.
+
+## Đóng góp
+
+Chúng tôi rất mong nhận được sự đóng góp từ bạn! Vui lòng tạo một pull request hoặc mở một issue.
+
+## License
+
+Dự án này được cấp phép dưới MIT License.
+
+## Liên hệ
+
+- GitHub: [huu2304-backend](https://github.com/huu2304-backend)
+- Được tạo vào: 2026
 
 ---
-[![](https://komarev.com/ghpvc/?username=HuuCat&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Happy Coding! 🎉**
